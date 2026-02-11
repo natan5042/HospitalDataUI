@@ -262,5 +262,23 @@
     "Nom": "TestAdd",
     "Prenom": "Superviseur",
     "fonction": "Test"
+  },
+  {
+    "IdSuperviseur": "sup-dcd8a9023f6347bdb2ec3ce5d12da94c",
+    "Nom": "TestAdd",
+    "Prenom": "Superviseur",
+    "fonction": "Test"
+  },
+  {
+    "IdSuperviseur": "sup-836170add63849faa38ddf6e58ba73bc",
+    "Nom": "TestAdd",
+    "Prenom": "Superviseur",
+    "fonction": "Test"
+  },
+  {
+    "IdSuperviseur": "sup-87d37ca856e64b00bc27a6ccf56928bb",
+    "Nom": "TestAdd",
+    "Prenom": "Superviseur",
+    "fonction": "Test"
   }
 ]

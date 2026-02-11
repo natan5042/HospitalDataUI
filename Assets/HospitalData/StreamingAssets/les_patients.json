@@ -493,5 +493,38 @@
     "CoteNeglige": "droit",
     "DateCreation": "2026-02-10T14:26:28.2478386Z",
     "SuiviPatient": "Test Add"
+  },
+  {
+    "IDpatient": "patient-01a774ea79af425ba4d82ec400829f39",
+    "Nom": "TestAdd",
+    "Prenom": "Patient",
+    "date_de_naissance": 1990,
+    "Sexe": "M",
+    "Pathologie": "Test",
+    "CoteNeglige": "droit",
+    "DateCreation": "2026-02-10T14:39:47.3651405Z",
+    "SuiviPatient": "Test Add"
+  },
+  {
+    "IDpatient": "patient-dcd75c906fe3491cbf95f2b2201c143a",
+    "Nom": "TestAdd",
+    "Prenom": "Patient",
+    "date_de_naissance": 1990,
+    "Sexe": "M",
+    "Pathologie": "Test",
+    "CoteNeglige": "droit",
+    "DateCreation": "2026-02-11T08:56:26.0172569Z",
+    "SuiviPatient": "Test Add"
+  },
+  {
+    "IDpatient": "patient-6ef43a61f0ad40788b96c6ee68d31cae",
+    "Nom": "TestAdd",
+    "Prenom": "Patient",
+    "date_de_naissance": 1990,
+    "Sexe": "M",
+    "Pathologie": "Test",
+    "CoteNeglige": "droit",
+    "DateCreation": "2026-02-11T08:59:49.1555395Z",
+    "SuiviPatient": "Test Add"
   }
 ]
